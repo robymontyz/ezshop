@@ -1,6 +1,6 @@
 # Design assessment
 
-Authors: Roberto Alessi (290180), Michelangelo Bartolomucci (292422), Gianvito Marzo (281761), Roberto Torta (290184)
+Authors: Roberto A., Michelangelo B., Gianvito M., Roberto T.
 
 Date: 10/06/2021
 

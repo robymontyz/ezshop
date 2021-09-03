@@ -1,6 +1,6 @@
 # Project Dashboard
 
-Authors: Roberto Alessi (290180), Michelangelo Bartolomucci (292422), Gianvito Marzo (281761), Roberto Torta (290184)
+Authors: Roberto A., Michelangelo B., Gianvito M., Roberto T.
 
 Date: 05/06/2021
 
