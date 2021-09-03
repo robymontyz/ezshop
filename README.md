@@ -21,12 +21,12 @@ We developed a shopping application written in Java, using Agile methodology. St
 The project was managed through a Git repository and collaboration tools (Maven, Intellij IDEA - Code With Me, Visual Studio Code - Live Share, Slack, etc).
 
 Main tasks:
-• Producing software documentation using Markdown format with PlantUML extension;
-• Designing, starting from a requirement document, a realistic, medium-sized, application using Agile methodologies;
-• Analysis and formalization of functional and non-functional requirements of a software system;
-• Testing, verification and validation of software through JUnit suite;
-• Project management, configuration management, lifecycle analysis;
-• Refining of social skills (team-working, team management) and soft skills (problem solving, project management, project planning).
+- Producing software documentation using Markdown format with PlantUML extension;
+- Designing, starting from a requirement document, a realistic, medium-sized, application using Agile methodologies;
+- Analysis and formalization of functional and non-functional requirements of a software system;
+- Testing, verification and validation of software through JUnit suite;
+- Project management, configuration management, lifecycle analysis;
+- Refining of social skills (team-working, team management) and soft skills (problem solving, project management, project planning).
 
 ## Contributing
 
